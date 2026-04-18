@@ -1,0 +1,9 @@
+{
+  "city": "tegal",
+  "grid_cells": 194,
+  "poi_total": 105,
+  "building_total": 65745,
+  "halte_total": 16,
+  "positive": 20,
+  "label_method": "poi_building_halte_q90"
+}

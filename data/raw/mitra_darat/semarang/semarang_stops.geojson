@@ -1,0 +1,5306 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-11T18:49:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395619891",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.412532,
+          -6.976816
+        ]
+      },
+      "id": "node/4395619891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395634097",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Halte Stasiun Poncol 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.416183,
+          -6.973006
+        ]
+      },
+      "id": "node/4395634097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395634098",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Layur",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.422087,
+          -6.968254
+        ]
+      },
+      "id": "node/4395634098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396971791",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Pandanaran",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4116659,
+          -6.9853406
+        ]
+      },
+      "id": "node/4396971791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396978891",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Gramedia Pandanaran",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.420622,
+          -6.98879
+        ]
+      },
+      "id": "node/4396978891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396978989",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Pandanaran",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.415461,
+          -6.987033
+        ]
+      },
+      "id": "node/4396978989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593933680",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Balaikota",
+        "network": "Trans Semarang;Trans Jateng",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wikidata": "Q12522247",
+        "wikipedia": "id:Trans Semarang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4142626,
+          -6.979754
+        ]
+      },
+      "id": "node/4593933680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593933681",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Cakrawala",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3887087,
+          -6.9836076
+        ]
+      },
+      "id": "node/4593933681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593933812",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Pasar Bulu",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4073996,
+          -6.9836717
+        ]
+      },
+      "id": "node/4593933812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593933813",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Stasiun Tawang",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4270462,
+          -6.9654463
+        ]
+      },
+      "id": "node/4593933813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4763211047",
+        "highway": "bus_stop",
+        "name": "Bandara (BRT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3805461,
+          -6.9803367
+        ]
+      },
+      "id": "node/4763211047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994534820",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Simpang Lima",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "ref": "Kor-1, Kor-2, Kor-3, Kor-4, Kor-B5",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4235821,
+          -6.9893202
+        ]
+      },
+      "id": "node/4994534820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9813656882",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Terminal Banyumanik",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4113458,
+          -7.0741754
+        ]
+      },
+      "id": "node/9813656882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9813884258",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Muradi",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3772539,
+          -6.9859499
+        ]
+      },
+      "id": "node/9813884258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9816145333",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Sukun",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4126973,
+          -7.0636807
+        ]
+      },
+      "id": "node/9816145333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9816174755",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Imam Bonjol",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4102631,
+          -6.9814308
+        ]
+      },
+      "id": "node/9816174755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9816470903",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Stasiun Poncol",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4159368,
+          -6.9729151
+        ]
+      },
+      "id": "node/9816470903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9834887278",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Halte BRT Polines",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4347001,
+          -7.0549568
+        ]
+      },
+      "id": "node/9834887278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843206285",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Halte Klenteng Sam Poo Kong 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3985962,
+          -6.9943053
+        ]
+      },
+      "id": "node/9843206285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843378205",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Don Bosko",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4201534,
+          -7.022202
+        ]
+      },
+      "id": "node/9843378205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843386441",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Akpol",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4180468,
+          -7.0152248
+        ]
+      },
+      "id": "node/9843386441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843426667",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Milo",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.435454,
+          -6.995597
+        ]
+      },
+      "id": "node/9843426667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843445318",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "SDN Pelamongansari",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.490506,
+          -7.0181995
+        ]
+      },
+      "id": "node/9843445318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843533703",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kesatrian",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4184767,
+          -7.0298006
+        ]
+      },
+      "id": "node/9843533703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843537808",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kesatrian",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4180922,
+          -7.0298427
+        ]
+      },
+      "id": "node/9843537808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843538305",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "RSUP Dr. Kariadi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4066378,
+          -6.9933098
+        ]
+      },
+      "id": "node/9843538305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843538925",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Srondol",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4174435,
+          -7.0515474
+        ]
+      },
+      "id": "node/9843538925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843541704",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Karangayu",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3942966,
+          -6.9818833
+        ]
+      },
+      "id": "node/9843541704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843560191",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Krapyak",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3646497,
+          -6.9876411
+        ]
+      },
+      "id": "node/9843560191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843572419",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Ngaglik",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4075923,
+          -6.9966646
+        ]
+      },
+      "id": "node/9843572419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843577755",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "RSUP Dr. Kariadi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4065049,
+          -6.9934538
+        ]
+      },
+      "id": "node/9843577755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850043024",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Sukun",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4125772,
+          -7.0634407
+        ]
+      },
+      "id": "node/9850043024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850756997",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "ADA Setiabudi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.413945,
+          -7.0599226
+        ]
+      },
+      "id": "node/9850756997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850808141",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Karangayu",
+        "network": "Trans Semarang",
+        "not:network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3944252,
+          -6.9816505
+        ]
+      },
+      "id": "node/9850808141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850847325",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Gajahmungkur",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4088468,
+          -7.0044296
+        ]
+      },
+      "id": "node/9850847325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377419",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Campus Stop 3 - Student Centre",
+        "operator": "Bagian Aset Undip",
+        "public_transport": "platform",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4388903,
+          -7.0534976
+        ]
+      },
+      "id": "node/10600377419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377420",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Campus Stop 1 - Rusunawa",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4436856,
+          -7.0547121
+        ]
+      },
+      "id": "node/10600377420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377421",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus  Stop Campus 2 - Masjid Hijau",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4399858,
+          -7.0562358
+        ]
+      },
+      "id": "node/10600377421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377422",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop Campus 4 - FH FISIP",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4356331,
+          -7.0494956
+        ]
+      },
+      "id": "node/10600377422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377423",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop Campus 5 - Vokasi FIB",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4357916,
+          -7.0504479
+        ]
+      },
+      "id": "node/10600377423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377424",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop Campus 6",
+        "public_transport": "platform",
+        "ref": "6",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4402095,
+          -7.0486012
+        ]
+      },
+      "id": "node/10600377424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377425",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Bus Stop Campus 7 - FEB FSM",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "7",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.441382,
+          -7.0478188
+        ]
+      },
+      "id": "node/10600377425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377426",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop 8 - FKM FK",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "8",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4426866,
+          -7.0486886
+        ]
+      },
+      "id": "node/10600377426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377427",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop Campus 9 - FPIK",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "9",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4422184,
+          -7.0501024
+        ]
+      },
+      "id": "node/10600377427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377428",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop Campus 10 - FPP",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4415701,
+          -7.0522986
+        ]
+      },
+      "id": "node/10600377428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600377429",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus Stop Campus 11 - Lab Terpadu",
+        "operator": "Bagian Aset UNDIP",
+        "public_transport": "platform",
+        "ref": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4394953,
+          -7.054928
+        ]
+      },
+      "id": "node/10600377429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12059620344",
+        "highway": "bus_stop",
+        "name": "TIC",
+        "network": "Trans Jateng",
+        "operator": "Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4126392,
+          -6.9806656
+        ]
+      },
+      "id": "node/12059620344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060890834",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "ADA Setiabudi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4141547,
+          -7.0599915
+        ]
+      },
+      "id": "node/12060890834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060890836",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Transmart Setiabudi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4123053,
+          -7.0654756
+        ]
+      },
+      "id": "node/12060890836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060890856",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Terminal Banyumanik",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4111167,
+          -7.0735815
+        ]
+      },
+      "id": "node/12060890856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060890868",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Gajahmungkur",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4088138,
+          -7.0045987
+        ]
+      },
+      "id": "node/12060890868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969169",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Merapi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4127063,
+          -7.0052488
+        ]
+      },
+      "id": "node/12060969169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969170",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Merapi",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4127264,
+          -7.0053873
+        ]
+      },
+      "id": "node/12060969170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969171",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Elisabeth",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4168852,
+          -7.0079616
+        ]
+      },
+      "id": "node/12060969171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969172",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Elisabeth",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4160792,
+          -7.0089646
+        ]
+      },
+      "id": "node/12060969172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969173",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kagok",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4156151,
+          -7.0111203
+        ]
+      },
+      "id": "node/12060969173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969174",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kagok",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.416173,
+          -7.0117885
+        ]
+      },
+      "id": "node/12060969174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969175",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Akpol",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.418657,
+          -7.0166904
+        ]
+      },
+      "id": "node/12060969175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969176",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Don Bosko",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4200622,
+          -7.0224635
+        ]
+      },
+      "id": "node/12060969176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969177",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Pasar Jatingaleh",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4181565,
+          -7.032212
+        ]
+      },
+      "id": "node/12060969177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969178",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Pasar Jatingaleh",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.417895,
+          -7.0320403
+        ]
+      },
+      "id": "node/12060969178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969179",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Bukit Sari",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.421575,
+          -7.0442209
+        ]
+      },
+      "id": "node/12060969179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969180",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Bukit Sari",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4214429,
+          -7.0438649
+        ]
+      },
+      "id": "node/12060969180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969181",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Ngesrep",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4202366,
+          -7.047573
+        ]
+      },
+      "id": "node/12060969181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969182",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Ngesrep",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4203767,
+          -7.0475897
+        ]
+      },
+      "id": "node/12060969182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969183",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tembalang",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4188955,
+          -7.0499834
+        ]
+      },
+      "id": "node/12060969183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969184",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Srondol",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.417948,
+          -7.0512105
+        ]
+      },
+      "id": "node/12060969184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969185",
+        "alt_name": "Makodam IV Diponeggoro",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Makodam",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4110037,
+          -7.0821071
+        ]
+      },
+      "id": "node/12060969185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969186",
+        "alt_name": "Makodam IV Diponeggoro",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Makodam",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4111278,
+          -7.0800037
+        ]
+      },
+      "id": "node/12060969186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969187",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "SDN Pudakpayung",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4094125,
+          -7.0934414
+        ]
+      },
+      "id": "node/12060969187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969188",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "SDN Pudakpayung",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4098243,
+          -7.0939564
+        ]
+      },
+      "id": "node/12060969188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969189",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "BPK",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4096284,
+          -7.0975523
+        ]
+      },
+      "id": "node/12060969189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969190",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "BPK",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4097116,
+          -7.0981352
+        ]
+      },
+      "id": "node/12060969190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060969191",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pramuka",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4091343,
+          -7.1031158
+        ]
+      },
+      "id": "node/12060969191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872883",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "BCA Pemuda",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4181304,
+          -6.9759785
+        ]
+      },
+      "id": "node/12062872883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872884",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Bata Johar",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4218768,
+          -6.9721554
+        ]
+      },
+      "id": "node/12062872884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872886",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Agus Salim",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4269227,
+          -6.971163
+        ]
+      },
+      "id": "node/12062872886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872888",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dargo",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4311451,
+          -6.9756936
+        ]
+      },
+      "id": "node/12062872888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872889",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sekolah Mataram",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4314348,
+          -6.982207
+        ]
+      },
+      "id": "node/12062872889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872892",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SMKN 1",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4351068,
+          -6.9809438
+        ]
+      },
+      "id": "node/12062872892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872893",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "RS Panti Wilasa Dr. Cipto",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4346776,
+          -6.9742773
+        ]
+      },
+      "id": "node/12062872893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872896",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Raden Patah",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4353589,
+          -6.9645595
+        ]
+      },
+      "id": "node/12062872896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872897",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Posis (Honda)",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4391676,
+          -6.9622273
+        ]
+      },
+      "id": "node/12062872897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872899",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Penjaringan",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4383871,
+          -6.9600946
+        ]
+      },
+      "id": "node/12062872899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872900",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pengapon",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4349351,
+          -6.9620089
+        ]
+      },
+      "id": "node/12062872900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872902",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "KAI Terrace",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4298577,
+          -6.9647219
+        ]
+      },
+      "id": "node/12062872902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872905",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Damri",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4250149,
+          -6.9674988
+        ]
+      },
+      "id": "node/12062872905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872907",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Petek",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4214583,
+          -6.9702398
+        ]
+      },
+      "id": "node/12062872907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872910",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Abimanyu",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4123509,
+          -6.9768398
+        ]
+      },
+      "id": "node/12062872910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872912",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Udinus",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4098055,
+          -6.9824972
+        ]
+      },
+      "id": "node/12062872912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872914",
+        "alt_name": "Katedral",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Domenico Savio",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4091215,
+          -6.9859835
+        ]
+      },
+      "id": "node/12062872914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872915",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "RST",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4082592,
+          -6.9872295
+        ]
+      },
+      "id": "node/12062872915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12062872920",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Ngaglik",
+        "network": "Trans Semarang;Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4076651,
+          -6.9963783
+        ]
+      },
+      "id": "node/12062872920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241171",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "RRI",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.427411,
+          -6.992189
+        ]
+      },
+      "id": "node/12064241171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241172",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "RRI",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.425858,
+          -6.99166
+        ]
+      },
+      "id": "node/12064241172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241173",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Atmodirono",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.430366,
+          -6.993838
+        ]
+      },
+      "id": "node/12064241173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241174",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Atmodirono",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.430515,
+          -6.993735
+        ]
+      },
+      "id": "node/12064241174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241181",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Pasar Gayamsari",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.449823,
+          -7.002861
+        ]
+      },
+      "id": "node/12064241181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241182",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Milo",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.435729,
+          -6.995867
+        ]
+      },
+      "id": "node/12064241182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241183",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kelinci",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4419122,
+          -6.9985917
+        ]
+      },
+      "id": "node/12064241183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241184",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "RS Bhayangkara",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.446697,
+          -7.000861
+        ]
+      },
+      "id": "node/12064241184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241185",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Pasar Gayamsari",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.449399,
+          -7.002867
+        ]
+      },
+      "id": "node/12064241185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241186",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "RS Bhayangkara",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.446469,
+          -7.000964
+        ]
+      },
+      "id": "node/12064241186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241187",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kelinci",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.444164,
+          -6.999367
+        ]
+      },
+      "id": "node/12064241187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241206",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Beruang",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.451901,
+          -7.004196
+        ]
+      },
+      "id": "node/12064241206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241207",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "ADA Majapahit",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.460768,
+          -7.007705
+        ]
+      },
+      "id": "node/12064241207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241208",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "ADA Majapahit",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.459878,
+          -7.007282
+        ]
+      },
+      "id": "node/12064241208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241209",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kelurahan Gemah",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.464856,
+          -7.008729
+        ]
+      },
+      "id": "node/12064241209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241210",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kelurahan Gemah",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.464771,
+          -7.008869
+        ]
+      },
+      "id": "node/12064241210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241211",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Samsat Semarang",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.469825,
+          -7.01031
+        ]
+      },
+      "id": "node/12064241211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241212",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Samsat Semarang",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.470676,
+          -7.010413
+        ]
+      },
+      "id": "node/12064241212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241213",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "BLK",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.467828,
+          -7.009747
+        ]
+      },
+      "id": "node/12064241213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241214",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "BLK",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.467916,
+          -7.009604
+        ]
+      },
+      "id": "node/12064241214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241215",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "MAN",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.483948,
+          -7.015469
+        ]
+      },
+      "id": "node/12064241215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241216",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "MAN",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.483982,
+          -7.015686
+        ]
+      },
+      "id": "node/12064241216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241217",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Zebra",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.476702,
+          -7.012553
+        ]
+      },
+      "id": "node/12064241217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241218",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "1",
+        "name": "Manunggal Jati",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.480731,
+          -7.014067
+        ]
+      },
+      "id": "node/12064241218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241219",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Zebra",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.477164,
+          -7.01256
+        ]
+      },
+      "id": "node/12064241219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241220",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "2",
+        "name": "Manunggal Jati",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.481251,
+          -7.014513
+        ]
+      },
+      "id": "node/12064241220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241221",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "local_ref": "2",
+        "name": "Pucang Gading",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.486777,
+          -7.016941
+        ]
+      },
+      "id": "node/12064241221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241222",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "SDN Pelamongansari",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.490569,
+          -7.01844
+        ]
+      },
+      "id": "node/12064241222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064241223",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bitratex",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.492333,
+          -7.019035
+        ]
+      },
+      "id": "node/12064241223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261981",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pierre Tendean",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.413834,
+          -6.978149
+        ]
+      },
+      "id": "node/12064261981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261991",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kalibenteng",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.380082,
+          -6.985381
+        ]
+      },
+      "id": "node/12064261991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261992",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kalibenteng",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.379065,
+          -6.985816
+        ]
+      },
+      "id": "node/12064261992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261993",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Muradi",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.376028,
+          -6.986451
+        ]
+      },
+      "id": "node/12064261993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261994",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Pengadilan",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.371052,
+          -6.987504
+        ]
+      },
+      "id": "node/12064261994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261995",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Pengadilan",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.369418,
+          -6.987458
+        ]
+      },
+      "id": "node/12064261995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261996",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Krapyak",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364525,
+          -6.987298
+        ]
+      },
+      "id": "node/12064261996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261997",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "RSUD Tugurejo",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35667,
+          -6.984323
+        ]
+      },
+      "id": "node/12064261997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064261998",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "RSUD Tugurejo",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3563802,
+          -6.98436
+        ]
+      },
+      "id": "node/12064261998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262004",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Cakrawala",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.388678,
+          -6.983356
+        ]
+      },
+      "id": "node/12064262004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262005",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Amarta",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.397531,
+          -6.981274
+        ]
+      },
+      "id": "node/12064262005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262006",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Amarta",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.397477,
+          -6.981047
+        ]
+      },
+      "id": "node/12064262006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262011",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Pasar Bulu",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40709,
+          -6.983297
+        ]
+      },
+      "id": "node/12064262011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262012",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ADA Siliwangi",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.404969,
+          -6.982587
+        ]
+      },
+      "id": "node/12064262012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262013",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ADA Siliwangi",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.404725,
+          -6.982193
+        ]
+      },
+      "id": "node/12064262013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262017",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Agusta",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.415807,
+          -6.986961
+        ]
+      },
+      "id": "node/12064262017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064262018",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Gramedia Pandanaran",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.420687,
+          -6.989138
+        ]
+      },
+      "id": "node/12064262018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996726",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Penggaron",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4930975,
+          -7.0173137
+        ]
+      },
+      "id": "node/12064996726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996755",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Damri Tambakaji",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.336816,
+          -6.983253
+        ]
+      },
+      "id": "node/12064996755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996756",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "BPKP",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.321599,
+          -6.975931
+        ]
+      },
+      "id": "node/12064996756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996757",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Irigasi",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.29722,
+          -6.97312
+        ]
+      },
+      "id": "node/12064996757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996758",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "KTI",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.340915,
+          -6.985771
+        ]
+      },
+      "id": "node/12064996758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996759",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "BPKP",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.321953,
+          -6.975797
+        ]
+      },
+      "id": "node/12064996759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996760",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Tikung",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.31425,
+          -6.973745
+        ]
+      },
+      "id": "node/12064996760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996761",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Universitas Terbuka",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.309011,
+          -6.972687
+        ]
+      },
+      "id": "node/12064996761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996762",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Karanganyar",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.332471,
+          -6.978274
+        ]
+      },
+      "id": "node/12064996762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996763",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Lapangan Tugu",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.352792,
+          -6.9828327
+        ]
+      },
+      "id": "node/12064996763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996764",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Semarang Zoo",
+        "network": "Trans Semarang, Trans Jateng",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang, Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.287176,
+          -6.968882
+        ]
+      },
+      "id": "node/12064996764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996765",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Lapangan Tugu",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3531678,
+          -6.9826974
+        ]
+      },
+      "id": "node/12064996765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996766",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Taman Lele",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.346177,
+          -6.985606
+        ]
+      },
+      "id": "node/12064996766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996767",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Pasar Mangkang",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.303934,
+          -6.973278
+        ]
+      },
+      "id": "node/12064996767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064996768",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Karanganyar",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.331713,
+          -6.977895
+        ]
+      },
+      "id": "node/12064996768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015369",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Karangnongko",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.327978,
+          -6.976022
+        ]
+      },
+      "id": "node/12065015369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015370",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Karpet",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.334098,
+          -6.980347
+        ]
+      },
+      "id": "node/12065015370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015371",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Sango",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.318928,
+          -6.975449
+        ]
+      },
+      "id": "node/12065015371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015372",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Taman Lele",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.346125,
+          -6.985846
+        ]
+      },
+      "id": "node/12065015372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015373",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "KITW",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.325794,
+          -6.975885
+        ]
+      },
+      "id": "node/12065015373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015374",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Tikung",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.314511,
+          -6.973727
+        ]
+      },
+      "id": "node/12065015374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015375",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Mangkang",
+        "network": "Trans Semarang, Trans Jateng",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang, Trans Jateng",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.290473,
+          -6.969828
+        ]
+      },
+      "id": "node/12065015375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015376",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Universitas Terbuka",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.308857,
+          -6.972533
+        ]
+      },
+      "id": "node/12065015376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015377",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Texmaco",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.293268,
+          -6.971672
+        ]
+      },
+      "id": "node/12065015377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015378",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Sango",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.31867,
+          -6.975633
+        ]
+      },
+      "id": "node/12065015378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015379",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Irigasi",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.29717,
+          -6.973331
+        ]
+      },
+      "id": "node/12065015379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015380",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Pasar Mangkang",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.304292,
+          -6.973037
+        ]
+      },
+      "id": "node/12065015380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015381",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "KTI",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.340081,
+          -6.985287
+        ]
+      },
+      "id": "node/12065015381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015382",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Damri Tambakaji",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.336679,
+          -6.983416
+        ]
+      },
+      "id": "node/12065015382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015383",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Karangnongko",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.327876,
+          -6.976215
+        ]
+      },
+      "id": "node/12065015383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015384",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "KITW",
+        "network": "Trans Semarang",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.325503,
+          -6.976086
+        ]
+      },
+      "id": "node/12065015384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12065015385",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Karpet",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.334159,
+          -6.980111
+        ]
+      },
+      "id": "node/12065015385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076273654",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alun-Alun Johar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4240298,
+          -6.971386
+        ]
+      },
+      "id": "node/12076273654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076273664",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Bata Johar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.422126,
+          -6.97155
+        ]
+      },
+      "id": "node/12076273664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375984",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terminal Terboyo",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4627352,
+          -6.9526931
+        ]
+      },
+      "id": "node/12076375984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375985",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "RSI Sultan Agung",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.460287,
+          -6.956521
+        ]
+      },
+      "id": "node/12076375985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375986",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "LIK",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.455608,
+          -6.956608
+        ]
+      },
+      "id": "node/12076375986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375987",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "RSI Sultan Agung",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4600983,
+          -6.9561944
+        ]
+      },
+      "id": "node/12076375987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375988",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "LIK",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.45563,
+          -6.956923
+        ]
+      },
+      "id": "node/12076375988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375989",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kaligawe",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.443189,
+          -6.959803
+        ]
+      },
+      "id": "node/12076375989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375990",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kubro",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.451722,
+          -6.954193
+        ]
+      },
+      "id": "node/12076375990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375991",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Kampoeng Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.446047,
+          -6.958669
+        ]
+      },
+      "id": "node/12076375991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375992",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Tenggang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.449428,
+          -6.95728
+        ]
+      },
+      "id": "node/12076375992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375993",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kampoeng Semarang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4460536,
+          -6.9584454
+        ]
+      },
+      "id": "node/12076375993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375994",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Kaligawe",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.444231,
+          -6.959109
+        ]
+      },
+      "id": "node/12076375994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375995",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "1",
+        "name": "Tenggang",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.449394,
+          -6.957529
+        ]
+      },
+      "id": "node/12076375995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12076375996",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pertigaan Posis",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.440309,
+          -6.96043
+        ]
+      },
+      "id": "node/12076375996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12508952349",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "level": "2",
+        "lit": "yes",
+        "name": "Terminal Gunungpati",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3606331,
+          -7.0826689
+        ]
+      },
+      "id": "node/12508952349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852720",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fakultas Teknik",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang, Universitas Negeri Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4005686,
+          -7.0517594
+        ]
+      },
+      "id": "node/12511852720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852721",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Golf UNNES",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39949,
+          -7.0512798
+        ]
+      },
+      "id": "node/12511852721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852722",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fakultas Hukum",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3984168,
+          -7.0504084
+        ]
+      },
+      "id": "node/12511852722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852723",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fakultas Ilmu Sosial",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3973127,
+          -7.0490487
+        ]
+      },
+      "id": "node/12511852723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852724",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "GSG UNNES",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3961563,
+          -7.0487062
+        ]
+      },
+      "id": "node/12511852724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852725",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "BNI UNNES",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3956335,
+          -7.0489631
+        ]
+      },
+      "id": "node/12511852725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852726",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "FMIPA 1",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3944134,
+          -7.0495186
+        ]
+      },
+      "id": "node/12511852726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852727",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "FMIPA 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3933484,
+          -7.0508497
+        ]
+      },
+      "id": "node/12511852727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852728",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "UNNES Digital Center",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3930526,
+          -7.0513818
+        ]
+      },
+      "id": "node/12511852728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852729",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Auditorium 1",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3916292,
+          -7.0516712
+        ]
+      },
+      "id": "node/12511852729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852730",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Auditorium 2",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3907737,
+          -7.0501648
+        ]
+      },
+      "id": "node/12511852730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852731",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "LPPP",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3903814,
+          -7.0493902
+        ]
+      },
+      "id": "node/12511852731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852732",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gerbang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3899521,
+          -7.0487572
+        ]
+      },
+      "id": "node/12511852732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852733",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "LPPM",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3905344,
+          -7.0491547
+        ]
+      },
+      "id": "node/12511852733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852734",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "FBS 1",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3921838,
+          -7.0490456
+        ]
+      },
+      "id": "node/12511852734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852735",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "FBS 2",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3941721,
+          -7.0487715
+        ]
+      },
+      "id": "node/12511852735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852736",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fakultas Ilmu Sosial",
+        "network": "6, F4A, Shuttle",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.397438,
+          -7.0489539
+        ]
+      },
+      "id": "node/12511852736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511852737",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fakultas Ilmu Keolahragaan",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3991544,
+          -7.0507434
+        ]
+      },
+      "id": "node/12511852737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899664",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "MI Roudlotul Huda",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3949322,
+          -7.0551995
+        ]
+      },
+      "id": "node/12511899664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899665",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Selekor",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3972192,
+          -7.0588519
+        ]
+      },
+      "id": "node/12511899665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899666",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Indomaret Patemon",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3972147,
+          -7.0607642
+        ]
+      },
+      "id": "node/12511899666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899667",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "MA Al Asror",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3965821,
+          -7.0628638
+        ]
+      },
+      "id": "node/12511899667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899668",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gang Talang Bengkok",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3961827,
+          -7.0649724
+        ]
+      },
+      "id": "node/12511899668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899669",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Patemon Raya",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3971418,
+          -7.0667522
+        ]
+      },
+      "id": "node/12511899669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899670",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kelurahan Patemon",
+        "opening_hours": "08.00 - 15.00",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3975978,
+          -7.0675991
+        ]
+      },
+      "id": "node/12511899670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899671",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Wisata Embung Patemon",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3966238,
+          -7.0702995
+        ]
+      },
+      "id": "node/12511899671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899672",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gang Adem",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3945728,
+          -7.0727106
+        ]
+      },
+      "id": "node/12511899672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899673",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gumuk Sari",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3912707,
+          -7.0741953
+        ]
+      },
+      "id": "node/12511899673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899674",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SDIT Mutiara Hati",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3895224,
+          -7.0743626
+        ]
+      },
+      "id": "node/12511899674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899675",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pertigaan Muntal",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3876289,
+          -7.0749457
+        ]
+      },
+      "id": "node/12511899675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899676",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Muntal",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3854311,
+          -7.0742748
+        ]
+      },
+      "id": "node/12511899676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899677",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Muntal",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3853343,
+          -7.0741542
+        ]
+      },
+      "id": "node/12511899677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899678",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Wisma Husnul Khatimah",
+        "network": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.383921,
+          -7.0740676
+        ]
+      },
+      "id": "node/12511899678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899679",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Wisma Husnul Khatimah",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3845237,
+          -7.0740269
+        ]
+      },
+      "id": "node/12511899679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899680",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Salakan Rejosari",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3799933,
+          -7.0769107
+        ]
+      },
+      "id": "node/12511899680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899681",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Salakan Rejosari",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3801883,
+          -7.0767637
+        ]
+      },
+      "id": "node/12511899681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899682",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Puntan",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3770956,
+          -7.0793248
+        ]
+      },
+      "id": "node/12511899682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899683",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Puntan",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3768286,
+          -7.0791151
+        ]
+      },
+      "id": "node/12511899683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899684",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gang Lima Puntan",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3755254,
+          -7.078467
+        ]
+      },
+      "id": "node/12511899684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899685",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gang Lima Puntan",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3759773,
+          -7.0784467
+        ]
+      },
+      "id": "node/12511899685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899686",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pertigaan Jedung",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3680653,
+          -7.0761079
+        ]
+      },
+      "id": "node/12511899686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899687",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pertigaan Jedung",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3680119,
+          -7.0760783
+        ]
+      },
+      "id": "node/12511899687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899688",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perempatan Jedung",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3656877,
+          -7.0747982
+        ]
+      },
+      "id": "node/12511899688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899689",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perempatan Jedung",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3656343,
+          -7.074891
+        ]
+      },
+      "id": "node/12511899689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899690",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SMPN 22 Selatan",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3603746,
+          -7.0739997
+        ]
+      },
+      "id": "node/12511899690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899691",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SMPN 22 Selatan",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3602083,
+          -7.0739166
+        ]
+      },
+      "id": "node/12511899691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899692",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perempatan Cepoko",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3598308,
+          -7.07442
+        ]
+      },
+      "id": "node/12511899692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899693",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ngrembel Asri",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3601599,
+          -7.0764126
+        ]
+      },
+      "id": "node/12511899693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899694",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ngrembel Asri",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.359944,
+          -7.0761035
+        ]
+      },
+      "id": "node/12511899694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899695",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kampung Ngrembel",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3603364,
+          -7.0790869
+        ]
+      },
+      "id": "node/12511899695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899696",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kampung Ngrembel",
+        "network": "Trans Semarang",
+        "network:wikidata": "Q12522247",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3605398,
+          -7.0794518
+        ]
+      },
+      "id": "node/12511899696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899697",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Masjid Muntal",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3859675,
+          -7.0740744
+        ]
+      },
+      "id": "node/12511899697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899698",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mbibis",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3862263,
+          -7.0718322
+        ]
+      },
+      "id": "node/12511899698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899699",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jetis",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3862152,
+          -7.0663878
+        ]
+      },
+      "id": "node/12511899699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511899700",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ampel Gading",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3869021,
+          -7.0629847
+        ]
+      },
+      "id": "node/12511899700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948601",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kalisegoro",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3882973,
+          -7.0612869
+        ]
+      },
+      "id": "node/12511948601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948602",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sekar Gading",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3912091,
+          -7.0586156
+        ]
+      },
+      "id": "node/12511948602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948603",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rusunawa",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.392679,
+          -7.0581027
+        ]
+      },
+      "id": "node/12511948603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948604",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Garasi UNNES",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3921999,
+          -7.0560518
+        ]
+      },
+      "id": "node/12511948604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948605",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Taman Anggur",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3900472,
+          -7.0505672
+        ]
+      },
+      "id": "node/12511948605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948606",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rektorat",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3895729,
+          -7.0481243
+        ]
+      },
+      "id": "node/12511948606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948607",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Margasatwa",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3925214,
+          -7.0454437
+        ]
+      },
+      "id": "node/12511948607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12511948608",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "lapangan Banaran",
+        "operator": "Trans Semarang",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3948943,
+          -7.046942
+        ]
+      },
+      "id": "node/12511948608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13509902802",
+        "highway": "bus_stop",
+        "name": "Halte SuperIndo Tlogosari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4608337,
+          -6.9797954
+        ]
+      },
+      "id": "node/13509902802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13509930702",
+        "highway": "bus_stop",
+        "name": "Satrio Manah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4601461,
+          -6.9814566
+        ]
+      },
+      "id": "node/13509930702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13509943201",
+        "highway": "bus_stop",
+        "name": "Parang Baris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4598379,
+          -6.9833799
+        ]
+      },
+      "id": "node/13509943201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13509989701",
+        "highway": "bus_stop",
+        "name": "SDN Kalicari A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.457859,
+          -6.9917921
+        ]
+      },
+      "id": "node/13509989701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13509989801",
+        "highway": "bus_stop",
+        "name:id": "Halte BRT Javamall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4320898,
+          -7.0067138
+        ]
+      },
+      "id": "node/13509989801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13516054283",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perbatasan Semarang Demak",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4977005,
+          -7.0206
+        ]
+      },
+      "id": "node/13516054283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13516054284",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Perbatasan Semarang Demak",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4981017,
+          -7.020953
+        ]
+      },
+      "id": "node/13516054284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13649038827",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Transmart Setiabudi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4120874,
+          -7.0656363
+        ]
+      },
+      "id": "node/13649038827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13649038828",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "2",
+        "name": "Taman Unyil",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4122995,
+          -7.1093906
+        ]
+      },
+      "id": "node/13649038828"
+    }
+  ]
+}

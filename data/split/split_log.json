@@ -1,0 +1,21 @@
+{
+  "train": [
+    "surabaya"
+  ],
+  "val": [
+    "yogyakarta"
+  ],
+  "test": [
+    "tegal"
+  ],
+  "counts": {
+    "surabaya": 1493,
+    "yogyakarta": 165,
+    "tegal": 191
+  },
+  "label_method": {
+    "surabaya": "fallback_top10pct",
+    "yogyakarta": "fallback_top10pct",
+    "tegal": "fallback_top10pct"
+  }
+}

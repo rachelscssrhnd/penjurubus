@@ -1,0 +1,9 @@
+{
+  "city": "surabaya",
+  "grid_cells": 2165,
+  "poi_total": 24526,
+  "building_total": 1065211,
+  "halte_total": 3263,
+  "positive": 217,
+  "label_method": "poi_building_halte_q90"
+}

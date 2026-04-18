@@ -1,0 +1,38 @@
+{
+  "best_model": "logreg",
+  "best_threshold": 0.95,
+  "selected_rule_tegal": "top_10",
+  "validation_metrics": {
+    "accuracy": 0.8875,
+    "precision": 0.47058823529411764,
+    "recall": 1.0,
+    "f1": 0.64,
+    "roc_auc": 0.9996744791666667,
+    "cm": [
+      [
+        252,
+        36
+      ],
+      [
+        0,
+        32
+      ]
+    ]
+  },
+  "train_size": 2165,
+  "val_size": 320,
+  "tegal_size": 194,
+  "tegal_positive_count": 10,
+  "features": [
+    "area_m2",
+    "population",
+    "poi_count",
+    "building_count",
+    "halte_count",
+    "road_length",
+    "road_density",
+    "dist_to_nearest_halte",
+    "pop_density",
+    "pop_x_area"
+  ]
+}

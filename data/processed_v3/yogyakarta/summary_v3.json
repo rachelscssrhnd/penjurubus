@@ -1,0 +1,9 @@
+{
+  "city": "yogyakarta",
+  "grid_cells": 320,
+  "poi_total": 5657,
+  "building_total": 293850,
+  "halte_total": 715,
+  "positive": 32,
+  "label_method": "poi_building_halte_q90"
+}
