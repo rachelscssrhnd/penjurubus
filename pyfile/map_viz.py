@@ -3,6 +3,7 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
+from penjurubus.data_paths import resolve_path
 
 ROOT = r"D:/penjurubus"
 PROC_DIR = os.path.join(ROOT, "data", "processed_v3")
@@ -11,9 +12,9 @@ OUT_DIR = os.path.join(ROOT, "output_visual")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 CITY_FILES = {
-    "Surabaya": os.path.join(PROC_DIR, "surabaya", "features_v3.parquet"),
-    "Yogyakarta": os.path.join(PROC_DIR, "yogyakarta", "features_v3.parquet"),
-    "Tegal": os.path.join(PROC_DIR, "tegal", "features_v3.parquet"),
+    "Surabaya": resolve_path(os.path.join(PROC_DIR, "surabaya", "features_v3.parquet")),
+    "Yogyakarta": resolve_path(os.path.join(PROC_DIR, "yogyakarta", "features_v3.parquet")),
+    "Tegal": resolve_path(os.path.join(PROC_DIR, "tegal", "features_v3.parquet")),
 }
 
 TEGAL_TOP20 = os.path.join(PRED_DIR, "tegal_top20.csv")

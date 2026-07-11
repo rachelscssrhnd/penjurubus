@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import numpy as np
 from pathlib import Path
+from penjurubus.data_paths import resolve_path
 
 ROOT = r"D:\penjurubus"
 PROC_DIR = os.path.join(ROOT, "data", "processed")
@@ -25,7 +26,8 @@ RAW_FILES = {
 TARGET_COL = "is_candidate_stop"
 
 def read_df(path):
-    return pd.read_parquet(path) if os.path.exists(path) else pd.DataFrame()
+    p = resolve_path(path)
+    return pd.read_parquet(p) if os.path.exists(p) else pd.DataFrame()
 
 def inspect_df(df, name):
     info = {

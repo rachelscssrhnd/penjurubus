@@ -98,9 +98,14 @@ def load_building_footprints(city_name: str,
                              max_retries: int = 3,
                              retry_wait: int = 15) -> gpd.GeoDataFrame:
     cache_path = os.path.join(RAW_DIR, "buildings", city_name, "buildings.parquet")
-    if os.path.exists(cache_path):
+    try:
+        from penjurubus.data_paths import resolve_path
+        p = resolve_path(cache_path)
+    except Exception:
+        p = cache_path
+    if os.path.exists(p):
         print(f"[BLDG] Loading from cache: {city_name}")
-        return gpd.read_parquet(cache_path)
+        return gpd.read_parquet(p)
 
     if pbf_path and os.path.exists(pbf_path):
         return _load_buildings_from_pbf(city_name, pbf_path, save)

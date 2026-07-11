@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import geopandas as gpd
 import numpy as np
+from penjurubus.data_paths import resolve_path
 
 ROOT = r"D:\penjurubus"
 RAW_BASE = os.path.join(ROOT, "data", "raw", "osm")
@@ -30,7 +31,8 @@ def find_file(folder, stem):
     return None
 
 def read_gdf(path):
-    return gpd.read_parquet(path) if path and os.path.exists(path) else gpd.GeoDataFrame()
+    p = resolve_path(path)
+    return gpd.read_parquet(p) if p and os.path.exists(p) else gpd.GeoDataFrame()
 
 def safe_crs(gdf, target=None):
     if len(gdf) == 0:

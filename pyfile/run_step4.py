@@ -3,6 +3,7 @@ import json
 import joblib
 import numpy as np
 import pandas as pd
+from penjurubus.data_paths import resolve_path
 
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, ExtraTreesClassifier
@@ -20,9 +21,9 @@ OUT_DIR = os.path.join(ROOT, "data", "predictions_v4_search")
 os.makedirs(MODEL_DIR, exist_ok=True)
 os.makedirs(OUT_DIR, exist_ok=True)
 
-TRAIN_PATH = os.path.join(PROC_DIR, "surabaya", "features_v3.parquet")
-VAL_PATH   = os.path.join(PROC_DIR, "yogyakarta", "features_v3.parquet")
-TEGAL_PATH = os.path.join(PROC_DIR, "tegal", "features_v3.parquet")
+TRAIN_PATH = resolve_path(os.path.join(PROC_DIR, "surabaya", "features_v3.parquet"))
+VAL_PATH   = resolve_path(os.path.join(PROC_DIR, "yogyakarta", "features_v3.parquet"))
+TEGAL_PATH = resolve_path(os.path.join(PROC_DIR, "tegal", "features_v3.parquet"))
 
 TARGET_COL = "is_candidate_stop"
 

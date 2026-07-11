@@ -6,6 +6,8 @@ import geopandas as gpd
 import osmnx as ox
 import networkx as nx
 from math import radians, cos, sin, sqrt, atan2
+from penjurubus.data_paths import resolve_path
+
 from shapely.geometry import Point, LineString
 from typing import List, Tuple, Dict, Any
 import random
